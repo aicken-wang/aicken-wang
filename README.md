@@ -1,3 +1,13 @@
+# <font color="#6a5acd">aicken-wang</font>
+
+![github](https://github-readme-stats.vercel.app/api?username=aicken-wang&show_icons=true&include_all_commits=true&count_private=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicken-wang&layout=compact&langs_count=10&count_private=true) 
+
+[Personal blog](https://www.wangshunqing.work)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aicken-wang&repo=aicken-wang) 
+
 ### Hi there 👋
 
 <!--
