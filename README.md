@@ -4,7 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicken-wang&layout=compact&langs_count=10&count_private=true) 
 
-[Personal blog](https://www.wangshunqing.work) 
 
 ### Hi there 👋
 
